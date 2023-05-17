@@ -1,2 +1,2 @@
 # datascient
-In questo script ho deciso di analizzare la media di retribuzione per i vari lavori. Nella repository troverete il dataset che ho analizzato e il mio script R.
+In questa repository troverete il dataset che ho utilizzato per l'analisi dei dati e anche il mio script con qualche funzione svolta! 
